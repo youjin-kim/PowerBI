@@ -1,6 +1,6 @@
-**PowerBI 연습**
+# Power BI
 
-05/02/2025 SUM 함수
+**05/02/2025 SUM 함수**
 
 * Model tab
   - Fact table: master table
